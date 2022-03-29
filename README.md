@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @DLean-Max, call me Lemuel
 
 - 👀 I’m interested in Java, App development using flutter. 
-- Also interested in Web Dev,
 - The ultimate aim is to be a data Scientist so I'll be learning Phyton 
-- 🌱 I’m currently learning Java 
-- 
+- 🌱 I’m currently learning Java not just for school though.
 - 📫 You can reach me via email: leninnation1@gmail.com
 
 <!---
